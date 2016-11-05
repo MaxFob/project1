@@ -1,3 +1,5 @@
 printf (hello world)
 
 printf (how are u?)
+
+printf(exit)
